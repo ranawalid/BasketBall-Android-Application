@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">firstapp</string>
+    <string name="team_a">TeamA</string>
+    <string name="add_three_points">+3 points</string>
+    <string name="Add_three_points">+3 points</string>
+    <string name="Add_two_points">+2 points</string>
+    <string name="free_throw">Free_throw</string>
+    <string name="team_b">TeamB</string>
+    <string name="_0">0</string>
+    <string name="_0b">0</string>
+    <string name="reset">Reset</string>
+</resources>
